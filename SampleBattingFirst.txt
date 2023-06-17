@@ -1,0 +1,83 @@
+first innings
+1 total over
+
+India players
+1). R Sharma
+2). S Dhawan
+3). V Kohil
+4). S Yadav
+5). H Pandya
+6). MS Dhoni(C)
+7). R Jadeja
+8). R Ashwin
+9). B Kumar
+10). M Shami
+11). J BumrahS Smith(C)
+
+Australia players
+1). S Smith(C)
+2). D Warner
+3). M Marsh
+4). G Maxwell
+5). M Stoinis
+6). C Green
+7). A Zampa
+8). M Starc
+9). J Hazelwood
+10). J Faulkner
+11). N Lyon
+
+present bowler is M Starc
+ball hit the bat
+1 runs for this delivery
+By 0.1 over the score is 1 and wicket is 0
+V Kohil =striker and R Sharma =non striker
+By 0.1 over the score is 1 and wicket is 0
+V Kohil =striker and R Sharma =non striker
+By 0.1 over the score is 2 and wicket is 0
+V Kohil =striker and R Sharma =non striker
+ball hit the bat
+3 runs for this delivery
+By 0.2 over the score is 5 and wicket is 0
+R Sharma =striker and V Kohil =non striker
+By 0.2 over the score is 5 and wicket is 0
+R Sharma =striker and V Kohil =non striker
+ball missed to the bat
+dot ball for this delivery
+By 0.3 over the score is 5 and wicket is 0
+R Sharma =striker and V Kohil =non striker
+ball hit the bat
+4 runs for this delivery
+By 0.4 over the score is 9 and wicket is 0
+R Sharma =striker and V Kohil =non striker
+By 0.4 over the score is 9 and wicket is 0
+R Sharma =striker and V Kohil =non striker
+ball hit the bat
+1 runs for this delivery
+By 0.5 over the score is 10 and wicket is 0
+V Kohil =striker and R Sharma =non striker
+By 0.5 over the score is 10 and wicket is 0
+V Kohil =striker and R Sharma =non striker
+ball hit the bat
+6 runs for this delivery
+After 1 over the score is 16 and wickets is 0
+ -------------------------------
+Batting stats
+-------------------------------
+R Sharma 6(4)
+V Kohil 9(2)
+not at batted
+S Dhawan
+S Yadav
+H Pandya
+MS Dhoni(C)
+R Jadeja
+R Ashwin
+B Kumar
+M Shami
+J BumrahS Smith(C)
+-------------------------------
+bowling status
+-------------------------------
+M Starc 0-16(1)
+Target is 17 for Australia

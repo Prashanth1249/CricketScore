@@ -1,0 +1,75 @@
+second innings
+1 total over
+
+Australia players
+1). S Smith(C)
+2). D Warner
+3). M Marsh
+4). G Maxwell
+5). T David
+6). C Green
+7). M Stoinis
+8). J Hazelwood
+9). M Starc
+10). A Zampa
+11). N Lyon
+
+India players
+1). R Sharma
+2). V Kohli
+3). S Raina
+4). Y Singh
+5). MS Dhoni(C)
+6). H Pandya
+7). R Jadeja
+8). R Ashwin
+9). B Kumar
+10). M Shami
+11). J Bumrah
+
+present bowler is B Kumar
+s 1 and wicket is 0
+D Warner =striker and S Smith(C) =non striker
+Hit to the bat
+3 runs for this delivery
+By 0.3 ball the score is 4 and wicket is 0
+S Smith(C) =striker and D Warner =non striker
+By 0.3 ball the score is 4 and wicket is 0
+S Smith(C) =striker and D Warner =non striker
+Hit to the bat
+4 runs for this delivery
+By 0.4 ball the score is 8 and wicket is 0
+S Smith(C) =striker and D Warner =non striker
+By 0.4 ball the score is 8 and wicket is 0
+S Smith(C) =striker and D Warner =non striker
+Hit to the bat
+4 runs for this delivery
+By 0.5 ball the score is 12 and wicket is 0
+S Smith(C) =striker and D Warner =non striker
+By 0.5 ball the score is 12 and wicket is 0
+S Smith(C) =striker and D Warner =non striker
+Hit to the bat
+6 runs for this delivery
+After 1 over the score is 18 and wickets is 0
+ 
+Match results
+Australia won by 10 wickets
+-------------------------------
+Batting stats
+-------------------------------
+S Smith(C) 15(5)
+D Warner 3(1)
+not at batted
+M Marsh
+G Maxwell
+T David
+C Green
+M Stoinis
+J Hazelwood
+M Starc
+A Zampa
+N Lyon
+-------------------------------
+bowling status
+-------------------------------
+B Kumar 0-18(1)
