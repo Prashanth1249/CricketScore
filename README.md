@@ -44,7 +44,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or feedback, please contact [prashanth.pottola@gmail.com].
+For any inquiries or feedback, please contact prashanth.pottola@gmail.com
 
 
 
